@@ -1805,8 +1805,8 @@ def calc_roc_conf_intervals(p_data):
     '''
 
     # parameters and input arguments
-    c_lvl = 0.99
-    roc, grp_stype, n_boot = p_data[0], p_data[1], p_data[2]
+    c_lvl = 0.95
+    roc, grp_stype, n_boot = p_data[0],p_data[1], p_data[2]
 
     # calculates the roc curve integral
     results = _ci_auc(roc, method=grp_stype[0].lower(), boot_n=n_boot, conf_level=c_lvl, progress='none')
