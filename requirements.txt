@@ -17,7 +17,7 @@ pyopencl==2020.2
 pyOpenSSL==19.1.0
 PySocks==1.7.1
 pytools==2020.3.1
-pywin32==227
+pywin32==301
 requests==2.23.0
 ruamel-yaml==0.15.87
 six==1.14.0
