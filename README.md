@@ -12,7 +12,7 @@ probez and rotation-analysis packages are written by [Stephen Lenzi](https://git
 
 vest_phys and pyphys packages are written by [Charly Rousseau](https://github.com/crousseau). 
 
-margrie_libs package is written by [Cahrly Rousseau](https://github.com/crousseau) with contributions from [Stephen Lenzi](https://github.com/stephenlenzi). 
+margrie_libs package is written by [Charly Rousseau](https://github.com/crousseau) with contributions from [Stephen Lenzi](https://github.com/stephenlenzi). 
 
 ## Details
 
